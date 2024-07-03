@@ -64,11 +64,7 @@ The model is efficient, since we used a compact __CNN-based architecture__, it�
 <br />![](Analysis/fe.png)<br />
 The above figure shows pre-processed image with extracted features which is sent to the model for classification.
 
-## 🎯 Proposed Flow
-</br>
-<p align="center"><img src="https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/Analysis/Proposed%20Flow.png" width="700" height="400"></p>
-<!---![](Analysis/Proposed%20Flow.png)<br />--->
-The figure above shows a detailed pipeline of the model architecture. It can be interpreted that a Convolutional architecture has been proposed.
+
 
 
 ## :key: Prerequisites
@@ -121,43 +117,13 @@ $ python3 jupyter
 <br /><br />![](Analysis/Accuracy%20vs%20Epoch.png)<br/>
 #### The above figure shows the Accuracy plot of the model throughout it's training journey. 
 
-## 📈 Analysis
-
-#### The training phase data has been evaluated on the Heatmap Plotting representation. 
-![](Analysis/Heatmp.png)<br />
-#### The prescribed analysis aims that each class is most correlated with that traned class.
-
-## :clap: And it's done!
-Feel free to mail me for any doubts/query 
-:email: aryan.gupta18@vit.edu
 
 
 
-## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Sign-Language-Detection](https://github.com/beingaryan/Sign-To-Speech-Conversion/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
 
 
-## :heart: Owner
-Made with :heart:&nbsp;  by [Aryan Gupta](https://github.com/beingaryan)
 
 
-## :+1: Credits
-* [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
-* [https://opencv.org/](https://opencv.org/)
-* Efthimiou, Eleni & Fotinea, Stavroula-Evita & Vogler, Christian & Hanke, Thomas & Glauert, John & Bowden, Richard & Braffort, Annelies & Collet, Christophe & Maragos, Petros & Segouat, Jérémie. (2009). 
-* Sign Language Recognition, Generation, and Modelling: A Research Effort with Applications in Deaf Communication. 21-30. 10.1007/978-3-642-02707-9_3. 
-* Pramada, Sawant & Vaidya, Archana. (2013). Intelligent Sign Language Recognition Using Image Processing. IOSR Journal of Engineering. 03. 45-51. 10.9790/3021-03224551.
-
-## :handshake: Our Contributors
-[CONTRIBUTORS.md](/CONTRIBUTORS.md)
-
-## :eyes: Code of Conduct
-
-You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
-
-
-## :eyes: License
-MIT © [Aryan Gupta](https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/LICENSE)
 
 
 
